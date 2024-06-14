@@ -1,4 +1,3 @@
-package com.javabasico;
 
 import java.util.Scanner;
 
@@ -14,9 +13,12 @@ public class JavaBasicoIfElse {
             System.out.println("Reprovado");
         } else if (nota > 2 && nota < 6){
             System.out.println("Recuperação");
-        } else{
+        }else if(nota > 6 && nota < 10 +1){
             System.out.println("Aprovado");
-        }
+        }else{
+            System.out.println("Nota invalida: ");
+        }          
+        
 
     }
 
