@@ -18,6 +18,12 @@ public class JavaBasicoMatrizes {
         notasAlunos[2][2] = 10;
         notasAlunos[2][3] = 7;
 
+        for (int i=0; i<notasAlunos.length; i++){
+            for(int j=0; j<notasAlunos[i].length; j++){
+                System.out.println(notasAlunos[i][j] + " - ");
+            }
+        }
+
         System.out.println("Aluno 1"+" nota1 :" + notasAlunos[0][0] + " nota 2: " + notasAlunos[0][1] + " nota 3: " + notasAlunos[0][2] + " nota 4:  " + notasAlunos[0][3] );
         
 
