@@ -1,3 +1,4 @@
+package CursoBasico;
 public class JavBasicoLoopWhile {
     public static void main(String[] args) {
         int i = 1;

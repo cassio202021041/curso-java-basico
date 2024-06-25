@@ -1,3 +1,4 @@
+package CursoBasico;
 
 import java.util.Scanner;
 

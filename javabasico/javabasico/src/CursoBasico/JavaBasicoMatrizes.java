@@ -1,7 +1,8 @@
+package CursoBasico;
 public class JavaBasicoMatrizes {
     public static void main(String[] args) {
         
-        double[][] notasAlunos = new double[30][4];
+        double[][] notasAlunos = new double[3][4];
 
         notasAlunos[0][0] = 10;
         notasAlunos[0][1] = 7;

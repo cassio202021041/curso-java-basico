@@ -1,3 +1,4 @@
+package CursoBasico;
 public class JavaBasicoFor {
     public static void main(String[] args) {
         
