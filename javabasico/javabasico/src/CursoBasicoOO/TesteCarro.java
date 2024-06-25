@@ -23,7 +23,9 @@ public class TesteCarro {
            System.out.println("Marca: " + van.marca + " Modelo: " + van.modelo);
            System.out.println("Marca: " + fusca.marca + " Modelo: " + fusca.modelo);
 
+           van.exibirAutonomia();
 
+          
     }
 }
 
